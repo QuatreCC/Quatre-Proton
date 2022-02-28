@@ -1,0 +1,20 @@
+{
+  "walletFile": "",
+  "enableAutoOptimization": true,
+  "scanCoinbaseTransactions": false,
+  "autoSelectDaemon": true,
+  "minimizeToTray": false,
+  "logLevel": "DISABLED",
+  "daemonHost": "node.quatre.cc",
+  "daemonPort": 20002,
+  "darkMode": true,
+  "displayCurrency": "QUATRE",
+  "selectedFiat": "usd",
+  "fiatSymbol": "$",
+  "symbolLocation": "prefix",
+  "fiatDecimals": 2,
+  "autoLockInterval": 15,
+  "autoLockEnabled": true,
+  "useLocalDaemon": false,
+  "daemonLogPath": ""
+}
